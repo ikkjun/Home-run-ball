@@ -928,7 +928,7 @@
                                                 <div id="cb4cabda28c61330b9074c6fd3-banner-text_heading" class="banner-text banner-text_heading">
                                                         <span class="banner-wrap">
 
-                                                            메이저리그 공식 야구 글러브
+                                                            Major League Baseball<sup>®</sup><br>공식 야구 글러브
                                                         </span>
                                                 </div>
                                                 <div class="banner-text banner-text_subheading">
