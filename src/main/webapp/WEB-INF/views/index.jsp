@@ -695,7 +695,7 @@
                                 </div>
                                 <div id="e0d835c8953fc3fdbeafa94d98-banner-text_heading" class="banner-text banner-text_heading">
                                         <span class="banner-wrap">
-                                        BBCOR, USSSA, & USA 등급의 배트 고르기
+                                        BBCOR, USSSA, & USA 배트 고르기
                                         </span>
                                 </div>
                                 <div class="banner-text banner-text_subheading">
@@ -928,7 +928,7 @@
                                                 <div id="cb4cabda28c61330b9074c6fd3-banner-text_heading" class="banner-text banner-text_heading">
                                                         <span class="banner-wrap">
 
-                                                            Major League Baseball<sup>®</sup> 공식 야구 글러브
+                                                            메이저리그 공식 야구 글러브
                                                         </span>
                                                 </div>
                                                 <div class="banner-text banner-text_subheading">
