@@ -1956,33 +1956,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="experience-component experience-rawlings_components-banner">
-                        <figure id="ae2c056d83dc1530a67326180e" class="component-figure  desktop-left mobile-bottom theme-dark">
-                            <picture>
-                                <source data-srcset="https://www.rawlings.com/dw/image/v2/BBBJ_PRD/on/demandware.static/-/Sites-rawlings-consolidated-Library/default/dw5fd8b586/images/landing/dbat/D-BAT-demobats-web-1-1440x300.jpg" height="300" width="1440" media="(min-width: 992px)"/>
-                                <img class="component-image" alt src="/on/demandware.static/Sites-rawlings-consolidated-Site/-/default/dw158c3734/images/lazyholders/1440-600-white.png" data-src="https://www.rawlings.com/dw/image/v2/BBBJ_PRD/on/demandware.static/-/Sites-rawlings-consolidated-Library/default/dw45328afc/images/landing/dbat/D-BAT-demobats-web-1-600x800.jpg"/>
-                            </picture>
-                            <figcaption class="banner-text_container">
-                                <div id="ae2c056d83dc1530a67326180e-banner-text_heading" class="banner-text banner-text_heading">
-                                        <span class="banner-wrap">
-                                            롤링스 배트 보러가기
-                                        </span>
-                                </div>
-                                <div class="banner-text banner-text_subheading">
-                                        <span class="banner-wrap">
-                                        홈런의 오프라인 매장을 찾아 직접 사용해보세요
-                                        </span>
-                                </div>
-                                <a class="banner-button btn btn-primary " title="Learn More" href="#" aria-labelledby="ae2c056d83dc1530a67326180e-banner-text_heading">
-                                        <span class="button-test-wrap">
-                                        Learn More
-                                        </span>
-                                    <i class="fa fa-arrow-right"></i>
-                                    </iselseif>
-                                </a>
-                            </figcaption>
-                        </figure>
-                    </div>
                     <div class="experience-component experience-rawlings_components-recommendationCategory">
                         <div id="slider-72eb2fc7794cc22df013ffcde5" class="slick-component pd-rec-component  background-white" data-uuid="63cfb7df-b6c5-4a02-bfd3-c2dc67d729db" data-reco="products-in-a-category">
                             <div class="slicklayout-text_container">
