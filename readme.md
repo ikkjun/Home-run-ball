@@ -45,3 +45,6 @@ Build: Maven
 | 👩‍💻 Live    |  https://home-run-ball.com/       |
 | 💻  Monitor     |  https://monit.home-run-ball.com/       |
 | ☕️ Admin | https://admin.home-run-ball.com/        |
+
+## ERD
+![홈런볼 최종ERD](src/main/webapp/resources/img/홈런볼ERD.png)
